@@ -1,16 +1,29 @@
-## Hi there 👋
+# eerrgin.github.io — Ergin Kaplan
 
-<!--
-**eerrgin/eerrgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curious by nature. Istanbul-based independent developer.
+My own little space on the web.
 
-Here are some ideas to get you started:
+**Live:** https://eerrgin.github.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+- Vite + vanilla JS
+- pnpm
+- GitHub Pages
+
+### Structure
+- `message.html`, `oku.html` -> düşenler / deney sayfaları
+- `veil.sig`, `style.css`, `script.js` -> site çekirdeği
+- `varan-otogar-...jpg`, `work.png` -> yerel arşiv
+
+### Philosophy
+Local-first. No telemetry. No external service needed to understand itself.
+Tools that inspired this site: VeilCheck, GreySignal, ReconX, local-sqli-lab
+-> yakında ayrı repo olarak gelecek: github.com/eerrgin/
+
+### Dev
+```bash
+pnpm install
+pnpm dev
+pnpm build
+```
+STATUS: 0xB16B00B5_ACTIVE

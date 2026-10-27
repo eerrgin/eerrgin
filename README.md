@@ -1,29 +1,19 @@
-# eerrgin.github.io — Ergin Kaplan
+# ERGİN TEKNİK ATÖLYE
 
-Curious by nature. Istanbul-based independent developer.
-My own little space on the web.
+Ergin Kaplan'ın kişisel yazılım, tasarım ve araştırma alanı.
 
-**Live:** https://eerrgin.github.io
+**Web:** https://eerrgin.github.io/
 
-### Stack
-- Vite + vanilla JS
-- pnpm
-- GitHub Pages
+Burada küçük fikirler çalışan araçlara, yerel deneyler açık kaynak projelere, şehir gözlemleri ise dijital arşivlere dönüşüyor.
 
-### Structure
-- `message.html`, `oku.html` -> düşenler / deney sayfaları
-- `veil.sig`, `style.css`, `script.js` -> site çekirdeği
-- `varan-otogar-...jpg`, `work.png` -> yerel arşiv
+## Çalışma alanları
 
-### Philosophy
-Local-first. No telemetry. No external service needed to understand itself.
-Tools that inspired this site: VeilCheck, GreySignal, ReconX, local-sqli-lab
--> yakında ayrı repo olarak gelecek: github.com/eerrgin/
+- **Web ve arayüz deneyleri:** etkileşimli sayfalar, görsel sistemler ve tarayıcı içinde çalışan araçlar.
+- **İstanbul / Samatya arşivi:** şehrin hafızası, kıyı çizgileri, mimari ve kişisel gözlemler.
+- **MycelForge:** miselyum temelli biyomalzeme formüllerini ve araştırma protokollerini inceleyen deneysel araç.
+- **Tigerk:** tarayıcı içinde çalışan yerel sinir ağı deneyi.
+- **Savunma Anatomisi:** hesap, web ve sistem güvenliği üzerine savunma odaklı eğitim alanı.
+- **İstanbul Kokpiti ve diğer laboratuvarlar:** şehir verileri, atmosfer ve küçük teknik denemeler.
 
-### Dev
-```bash
-pnpm install
-pnpm dev
-pnpm build
-```
-STATUS: 0xB16B00B5_ACTIVE
+Projeler deney yaparak, hata ayıklayarak ve yineleyerek gelişiyor. Her deponun kapsamı, çalışma şekli ve sınırlamaları kendi belgelerinde açıklanır.
+

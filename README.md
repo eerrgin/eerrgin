@@ -1,6 +1,6 @@
 # Ergin Kaplan
 
-İstanbul'da yaşayan, yazılıma sonradan yönelmiş ve öğrenmeye devam eden biriyim.
+Yazılıma yönelmiş ve öğrenmeye devam eden biriyim.
 
 Bir şeyleri deneyerek, hata ayıklayarak ve yeniden düzenleyerek öğreniyorum. Büyük iddialardan çok; ne yaptığını, nasıl kontrol edildiğini ve nerede sınırlı kaldığını açıkça anlatan küçük, işe yarar araçlar üretmek istiyorum.
 

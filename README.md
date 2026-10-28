@@ -6,6 +6,7 @@ Bir şeyleri deneyerek, hata ayıklayarak ve yeniden düzenleyerek öğreniyorum
 
 ## Üzerinde çalıştıklarım
 
+- **[Tigerk](https://github.com/eerrgin/Tigerk)** — saf Python ile, harici makine öğrenmesi kütüphanesi kullanmadan temel sinir ağı ve geri yayılım kavramlarını gösteren eğitim deneyi.
 - **[MycelForge](https://github.com/eerrgin/mycelforge)** — miselyum temelli biyomalzeme fikirlerini incelemek için deneysel bir araç.
 - **[Resilience Lab](https://github.com/eerrgin/mycelforge/tree/main/resilience-lab)** — bozuk veri, çevrimdışı kullanım, hata mesajları ve tarayıcı özellikleri için test edilebilir küçük örnekler.
 - **[Performans Laboratuvarı](https://eerrgin.github.io/performance-lab/)** — aynı veri üzerinde algoritmaları ölçen, gereksiz hesaplamaları görünür kılan ve ölçüm sınırlarını açıklayan tarayıcı deneyi.

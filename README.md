@@ -8,6 +8,7 @@ Bir şeyleri deneyerek, hata ayıklayarak ve yeniden düzenleyerek öğreniyorum
 
 - **[MycelForge](https://github.com/eerrgin/mycelforge)** — miselyum temelli biyomalzeme fikirlerini incelemek için deneysel bir araç.
 - **[Resilience Lab](https://github.com/eerrgin/mycelforge/tree/main/resilience-lab)** — bozuk veri, çevrimdışı kullanım, hata mesajları ve tarayıcı özellikleri için test edilebilir küçük örnekler.
+- **[Performans Laboratuvarı](https://eerrgin.github.io/performance-lab/)** — aynı veri üzerinde algoritmaları ölçen, gereksiz hesaplamaları görünür kılan ve ölçüm sınırlarını açıklayan tarayıcı deneyi.
 - **[Ergin Teknik Atölye](https://eerrgin.github.io/)** — web deneyleri, İstanbul arşivi ve küçük araştırma projeleri.
 
 ## Çalışma yaklaşımım

@@ -1,19 +1,17 @@
-# ERGİN TEKNİK ATÖLYE
+# Ergin Kaplan
 
-Ergin Kaplan'ın kişisel yazılım, tasarım ve araştırma alanı.
+İstanbul'da yaşayan, yazılıma sonradan yönelmiş ve öğrenmeye devam eden biriyim.
 
-**Web:** https://eerrgin.github.io/
+Bir şeyleri deneyerek, hata ayıklayarak ve yeniden düzenleyerek öğreniyorum. Büyük iddialardan çok; ne yaptığını, nasıl kontrol edildiğini ve nerede sınırlı kaldığını açıkça anlatan küçük, işe yarar araçlar üretmek istiyorum.
 
-Burada küçük fikirler çalışan araçlara, yerel deneyler açık kaynak projelere, şehir gözlemleri ise dijital arşivlere dönüşüyor.
+## Üzerinde çalıştıklarım
 
-## Çalışma alanları
+- **[MycelForge](https://github.com/eerrgin/mycelforge)** — miselyum temelli biyomalzeme fikirlerini incelemek için deneysel bir araç.
+- **[Resilience Lab](https://github.com/eerrgin/mycelforge/tree/main/resilience-lab)** — bozuk veri, çevrimdışı kullanım, hata mesajları ve tarayıcı özellikleri için test edilebilir küçük örnekler.
+- **[Ergin Teknik Atölye](https://eerrgin.github.io/)** — web deneyleri, İstanbul arşivi ve küçük araştırma projeleri.
 
-- **Web ve arayüz deneyleri:** etkileşimli sayfalar, görsel sistemler ve tarayıcı içinde çalışan araçlar.
-- **İstanbul / Samatya arşivi:** şehrin hafızası, kıyı çizgileri, mimari ve kişisel gözlemler.
-- **MycelForge:** miselyum temelli biyomalzeme formüllerini ve araştırma protokollerini inceleyen deneysel araç.
-- **Tigerk:** tarayıcı içinde çalışan yerel sinir ağı deneyi.
-- **Savunma Anatomisi:** hesap, web ve sistem güvenliği üzerine savunma odaklı eğitim alanı.
-- **İstanbul Kokpiti ve diğer laboratuvarlar:** şehir verileri, atmosfer ve küçük teknik denemeler.
+## Çalışma yaklaşımım
 
-Projeler deney yaparak, hata ayıklayarak ve yineleyerek gelişiyor. Her deponun kapsamı, çalışma şekli ve sınırlamaları kendi belgelerinde açıklanır.
+Önce küçük bir şey kurmak, ne zaman bozulduğunu görmek, hatayı anlamak ve yeniden denemek. Test edilmemiş bir özelliği tamamlanmış gibi sunmamaya; öğrenme sürecini ve projelerin sınırlarını belgelemeye çalışıyorum.
 
+Projeler zamanla gelişiyor. Geri bildirim ve düzeltmeler bu sürecin doğal bir parçası.
